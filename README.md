@@ -120,9 +120,9 @@ Data Class 마다 데이터 갯수는 200~300개 정도입니다.
 또한 정확도 역시 전이 모델을 사용하지 않을때에 비해 높습니다.  
 위 3가지 이유로 전이학습 모델을 사용하였습니다.
 
-### 전이 학습 모델 결과 확인  
-![image](https://user-images.githubusercontent.com/44837403/136704839-7fd28238-9d87-4f86-9bb1-19682b1d4257.png)
-epoch 12) 학습 정확도는 train 72%, val 63%, 총 63%로 나왔습니다.
+### 전이 학습 모델 결과 확인    
+![image](https://user-images.githubusercontent.com/44837403/136704839-7fd28238-9d87-4f86-9bb1-19682b1d4257.png)  
+epoch 12) 학습 정확도는 train 72%, val 63%, 총 63%로 나왔습니다.  
 
 
 
