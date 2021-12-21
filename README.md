@@ -1,10 +1,10 @@
 ## TeamProject_AI_with_Andorid_Eyepic_(Computer Vision)
 
-2021학년도 팀프로젝트로 진행한 AI 프로젝트입니다.
+사용자별로 선호될 수 있는 의류 이미지들에 대해 추천해주는 시스템을 구축하고자 했습니다. (Computer Vision, Data Science)
 
 팀원: 김현명, 김시은, 한도훈  
 
-지도교수님: 박소영 교수님
+지도교수님: 박소영 교수
 
 ## 프로젝트 개요
 
