@@ -1,4 +1,4 @@
-## TeamProject_AI_with_Andorid_Eyepic_(Computer Vision)
+## TeamProject_AI_Eyepic(Computer Vision)
 
 사용자별로 선호될 수 있는 의류 이미지들을 분류해주는 시스템을 구축하고자 했습니다. (Computer Vision, Data Science)
 
